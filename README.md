@@ -83,4 +83,4 @@ Once Python 3.7 is installed, proceed to:
     
  ## Notes
  
- If you have any comments on the project or its execution, please let me know by mail [Crvc1998](mailto:Crvc1998@gmail.com).
+ If you have any comments on the project or its execution, please let me know by mail [Crvc1998@gmail.com](mailto:Crvc1998@gmail.com).
